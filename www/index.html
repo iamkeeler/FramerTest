@@ -12,7 +12,7 @@
 		// This automatically sets the right viewport scale on mobile devices
 		(function() {
  		var scale = 1 / window.devicePixelRatio
- 		var viewport = "width=device-width, height=device-height, initial-scale=" + scale + ", maximum-scale=" + scale + ", user-scalable=no"
+ 		var viewport = "width=360, height=device-height, initial-scale=" + scale + ", maximum-scale=" + scale + ", user-scalable=no"
  		var iOS = /iPad|iPhone|iPod/.test(navigator.platform)
  		if (iOS) { viewport += ", shrink-to-fit=no" }
  		document.write("<meta name=\"viewport\" content=\"" + viewport + "\">")
