@@ -1,0 +1,254 @@
+app.coffee
+framer/backups/backup-2017-08-29 09.11.32.coffee
+framer/backups/backup-2017-08-29 09.12.32.coffee
+framer/backups/backup-2017-08-29 09.22.32.coffee
+framer/backups/backup-2017-08-29 09.23.32.coffee
+framer/backups/backup-2017-08-29 09.24.32.coffee
+framer/backups/backup-2017-08-29 09.25.32.coffee
+framer/backups/backup-2017-08-29 09.26.32.coffee
+framer/backups/backup-2017-08-29 09.28.32.coffee
+framer/backups/backup-2017-08-29 09.29.32.coffee
+framer/backups/backup-2017-08-29 09.31.32.coffee
+framer/backups/backup-2017-08-29 09.39.32.coffee
+framer/backups/backup-2017-08-29 09.41.32.coffee
+framer/backups/backup-2017-08-29 09.42.32.coffee
+framer/backups/backup-2017-08-29 09.43.32.coffee
+framer/backups/backup-2017-08-29 10.12.32.coffee
+framer/backups/backup-2017-08-29 10.13.32.coffee
+framer/backups/backup-2017-08-29 10.14.32.coffee
+framer/backups/backup-2017-08-29 10.15.32.coffee
+framer/backups/backup-2017-08-29 10.16.32.coffee
+framer/backups/backup-2017-08-29 10.17.32.coffee
+framer/backups/backup-2017-08-29 10.20.03.coffee
+framer/backups/backup-2017-08-29 10.21.01.coffee
+framer/backups/backup-2017-08-29 10.22.01.coffee
+framer/backups/backup-2017-08-29 10.35.18.coffee
+framer/backups/backup-2017-08-29 10.36.18.coffee
+framer/backups/backup-2017-08-29 10.37.18.coffee
+framer/backups/backup-2017-08-29 10.38.18.coffee
+framer/backups/backup-2017-08-29 10.39.18.coffee
+framer/backups/backup-2017-08-29 10.40.18.coffee
+framer/backups/backup-2017-08-29 10.41.18.coffee
+framer/backups/backup-2017-08-29 10.42.18.coffee
+framer/backups/backup-2017-08-29 10.43.18.coffee
+framer/backups/backup-2017-08-29 10.44.18.coffee
+framer/backups/backup-2017-08-29 10.45.18.coffee
+framer/backups/backup-2017-08-29 10.46.18.coffee
+framer/backups/backup-2017-08-29 10.56.19.coffee
+framer/backups/backup-2017-08-29 10.57.19.coffee
+framer/backups/backup-2017-08-29 10.58.19.coffee
+framer/backups/backup-2017-08-29 10.59.19.coffee
+framer/backups/backup-2017-08-29 11.17.19.coffee
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+images/design/9tEZMDxsTbDSWy2cIsrEyxg4UmfwOxkT3cjknRiyqr33bUyz2YXChpwpbmomB9VFvqBXfi3TB5DsHl6eVgYQ
+images/design/9tEZMDxsTbDSWy2cIsrEyxg4UmfwOxkT3cjknRiyqr33bUyz2YXChpwpbmomB9VFvqBXfi3TB5DsHl6eVgYQ-512
+images/design/9tEZMDxsTbDSWy2cIsrEyxg4UmfwOxkT3cjknRiyqr33bUyz2YXChpwpbmomB9VFvqBXfi3TB5DsHl6eVgYQ-preview
+images/design/jvdJZYYZYO6z0v78smTYiCq6SAHFQrJns5OiVMbRVsior2ZMhfKU1amvThN2numw59LiN2Hc0UoC3DXlzm2qA
+images/design/jvdJZYYZYO6z0v78smTYiCq6SAHFQrJns5OiVMbRVsior2ZMhfKU1amvThN2numw59LiN2Hc0UoC3DXlzm2qA-preview
+images/design/U1KLNXr9r4ZEwtMdO4G7AMYjffjCmcy8cjbl82ERqc9qls3Q6emUlqWFYdE9M1fVkR8V92fydUjtns2lRu5Q
+images/design/U1KLNXr9r4ZEwtMdO4G7AMYjffjCmcy8cjbl82ERqc9qls3Q6emUlqWFYdE9M1fVkR8V92fydUjtns2lRu5Q-512
+images/design/U1KLNXr9r4ZEwtMdO4G7AMYjffjCmcy8cjbl82ERqc9qls3Q6emUlqWFYdE9M1fVkR8V92fydUjtns2lRu5Q-preview
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-APIGroup-oengodfc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-APIGroup-qji1oem4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-APIGroup-qtfenjbc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-appBar-num5odbd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-appBar-rum1rtbb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-appBarEx-qtg5rkuw.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-background-mzzbrufc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-background-n0q2qjjc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-background-ntkxruq5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-mku3mkm4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-mtjdn0qx.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-mznemkre.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-nujcnjq4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-num3qthb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-oui4njyz.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-ourfnkrb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-qjc4mzhg.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-rdc3oue5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-rjk4qje1.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-bgCard-rti1oei1.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-ButtonEx-qjuwntlg.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-dashBoard-nzqzmzu3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-glass-quy5otjc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-m0ffrju3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-mdi2oeyy.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-nke0qtex.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-nkjdqtfg.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-otc5m0ux.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-q0e4rkmx.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-qkuwqtnd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-qty1rkq3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-qzgwqtg5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-rdfcnujg.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-rei4qzcz.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group-rjcwodjb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-mjy3nuu1.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-mzhcouje.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-njy3otky.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-nue4nzu1.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-nza3qtaz.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-oty3qzq5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-oujcqkvb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-qkvgmta2.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-qkzcntng.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-qta4nunf.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-rtk5n0uw.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_2-rtzgruqw.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-m0ndmdbb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-mknbqjuy.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-mkq1meew.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-mufgqzrb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-n0ncmdc4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-ntbbnddc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-nzven0ey.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-quizn0yx.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-qum1otrb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-qzg5rkex.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_3-rde0qtcy.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-mtverddf.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-munfnzy5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-mzzcqzfb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-ndcyqty2.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-ndfbrdex.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-nejbqtg3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-njc5rkq4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-otrgndcw.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-oujbmuez.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-qui2qtmz.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_4-rta4qknb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_5-mui1oeq3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_5-qzlcqum4.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_6-qtncmurb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_6-qujfnjzd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_7-ruuzrtnd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_8-rte3mji5.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-ndq3reey.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-nke5ouvb.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-nkewouvg.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-oemwmkq3.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-oenfmzi1.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-qtddodfd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-qte4qjff.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Group_9-rjm5ndve.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Image-rtq1qzqw.jpg
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-Menu-otvbodvc.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-mobileAssets-quyymzdf.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-mobileSM-que3njzd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-statusBar-mjcwmjbe.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-statusBar-mky5nkrd.png
+imported/SetonPrototype (WorkingFile)@1x/images/Layer-statusBar-q0jfqkzb.png
+imported/SetonPrototype (WorkingFile)@1x/layers.json
+imported/SetonPrototype (WorkingFile)@1x/layers.json.js
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-APIGroup-oengodfc.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-APIGroup-qji1oem4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-APIGroup-qtfenjbc.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-appBar-rum1rtbb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-appBarEx-qtg5rkuw.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-background-n0q2qjjc.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-background-ntkxruq5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-mku3mkm4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-mtjdn0qx.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-mznemkre.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-nujcnjq4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-num3qthb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-oui4njyz.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-ourfnkrb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-qjc4mzhg.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-rdc3oue5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-rjk4qje1.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-bgCard-rti1oei1.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-ButtonEx-qjuwntlg.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-dashBoard-nzqzmzu3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-m0ffrju3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-mdi2oeyy.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-nke0qtex.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-nkjdqtfg.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-otc5m0ux.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-q0e4rkmx.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-qkuwqtnd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-qty1rkq3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-qzgwqtg5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-rdfcnujg.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group-rei4qzcz.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-mjy3nuu1.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-mzhcouje.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-njy3otky.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-nza3qtaz.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-oty3qzq5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-oujcqkvb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-qkvgmta2.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-qkzcntng.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-qta4nunf.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-rtk5n0uw.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_2-rtzgruqw.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-m0ndmdbb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-mknbqjuy.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-mkq1meew.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-mufgqzrb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-n0ncmdc4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-ntbbnddc.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-nzven0ey.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-quizn0yx.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-qum1otrb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-qzg5rkex.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_3-rde0qtcy.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-mtverddf.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-munfnzy5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-mzzcqzfb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-ndcyqty2.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-ndfbrdex.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-nejbqtg3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-njc5rkq4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-otrgndcw.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-oujbmuez.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-qui2qtmz.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_4-rta4qknb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_5-mui1oeq3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_5-qzlcqum4.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_6-qtncmurb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_6-qujfnjzd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_7-ruuzrtnd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_8-rte3mji5.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-ndq3reey.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-nke5ouvb.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-nkewouvg.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-oemwmkq3.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-oenfmzi1.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-qtddodfd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-qte4qjff.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Group_9-rjm5ndve.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-Menu-otvbodvc.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-mobileSM-que3njzd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-statusBar-mjcwmjbe.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-statusBar-mky5nkrd.png
+imported/SetonPrototype (WorkingFile)@2x/images/Layer-TopContent-ruuyrtld.png
+imported/SetonPrototype (WorkingFile)@2x/layers.json
+imported/SetonPrototype (WorkingFile)@2x/layers.json.js
+index.html
+modules/myModule.coffee
