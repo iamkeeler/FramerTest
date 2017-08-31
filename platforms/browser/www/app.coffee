@@ -1,10 +1,18 @@
 # Import file "SetonPrototype (WorkingFile)"
-sk = Framer.Importer.load("imported/SetonPrototype (WorkingFile)@1x", scale:1)
+sk = Framer.Importer.load("imported/SetonPrototype (WorkingFile)@3x", scale: 1)
+# Import file "SetonPrototype (WorkingFile)"
+#sk = Framer.Importer.load("imported/SetonPrototype (WorkingFile)@2x", scale:1)
 
 # Define animation curve and time
 sk.Menu.animationOptions =
 	curve: Spring(0.85)
 	time: 0.6
+
+contentBody = new Layer
+	y: -20
+
+sk.mobileExtended.parent = contentBody
+sk.mobileAssets.parent = contentBody	
 
 # Define states for content
 sk.Menu.states = 
@@ -59,4 +67,4 @@ sk.mobileAssets.onClick ->
 scroll1 = ScrollComponent.wrap(sk.screenContent)
 scroll1.scrollHorizontal = false
 
-
+	

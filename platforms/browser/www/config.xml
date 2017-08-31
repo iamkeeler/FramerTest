@@ -8,7 +8,7 @@
     </feature>
     <name>PhoneGapTest</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        A simple framer to phonegap text
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
