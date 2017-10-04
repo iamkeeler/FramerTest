@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.zebrax.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PhoneGapTest</name>
+    <name>Tesco Pocket Office</name>
     <description>
-        A simple framer to phonegap test 
+        Tesco Thailand UX Prototype 
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="gkeeler@zebra.com" href="http://www.zebra.com">
+        Zebra Team
     </author>
-    <content src="index.html" />
+    <content src="login.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
